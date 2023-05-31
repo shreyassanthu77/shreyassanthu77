@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreyassanthu77" target="blank"><img src="https://img.shields.io/twitter/follow/shreyassanthu77?logo=twitter&style=for-the-badge" alt="shreyassanthu77" /></a> </p>
 
-<-- - 📝 I regularly write articles on [https://blog.shreyascodes.tech](https://blog.shreyascodes.tech) -->
+<!-- - 📝 I regularly write articles on [https://blog.shreyascodes.tech](https://blog.shreyascodes.tech) -->
 
 - ⚡ Fun fact **I am a huge nerd 🙂. I love math and science, I also enjoy solving rubics cube**
 
