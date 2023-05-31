@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyassanthu77&show_icons=true&locale=en&layout=compact" alt="shreyassanthu77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyassanthu77&show_icons=true&locale=en&include_all_commits=true" alt="shreyassanthu77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyassanthu77&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="shreyassanthu77" /></p>
 
 <!--
 **shreyassanthu77/shreyassanthu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
