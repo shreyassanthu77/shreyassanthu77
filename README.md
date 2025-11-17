@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Shreyas Mididoddi
-A passionate fullstack developer and a nerd. I like all things tech and love to learn new stuff all the time!
+Software "Engineer" | “zig evangelist” | thinks he's funny | love to hate on javascript | I use neovim btw | on arch btw
 
 <p align="left"> <a href="https://twitter.com/shreyassanthu77" target="blank"><img src="https://img.shields.io/twitter/follow/shreyassanthu77?logo=twitter&style=for-the-badge" alt="shreyassanthu77" /></a> </p>
 
