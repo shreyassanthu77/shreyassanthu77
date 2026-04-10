@@ -1,0 +1,14 @@
+
+name: Mirror
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+jobs:
+  mirror1:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git clone --bare https://code.hexops.org/hexops/xcode-frameworks.git .
+      - run: git push --mirror "https://x:$GITHUB_TOKEN@github.com/shreyassanthu77/xcode-frameworks"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_PAT }}
