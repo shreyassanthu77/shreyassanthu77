@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: git clone --bare https://code.hexops.org/hexops/xcode-frameworks.git .
-      - run: git push --mirror "https://x:$GITHUB_TOKEN@github.com/shreyassanthu77/xcode-frameworks"
+      - run: git push --mirror "https://x:$GITHUB_TOKEN@github.com/shreyassanthu77/xcode-frameworks.git"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_PAT }}
