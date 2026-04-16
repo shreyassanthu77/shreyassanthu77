@@ -12,3 +12,10 @@ jobs:
       - run: git push --mirror "https://x:$GITHUB_TOKEN@github.com/shreyassanthu77/xcode-frameworks.git"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+  mirror2:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git clone --bare https://code.hexops.org/hexops/wayland-headers.git .
+      - run: git push --mirror "https://x:$GITHUB_TOKEN@github.com/shreyassanthu77/wayland-headers.git"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
